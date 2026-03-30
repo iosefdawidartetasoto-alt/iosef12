@@ -1,0 +1,9 @@
+numeros = [10, 20, 30, 40, 50]
+
+
+resultados = []
+
+for num in numeros:
+    resultados.append(num * 2)
+
+print(resultados)
